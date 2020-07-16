@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+:banana:
+
+🔭 I’m currently working on ...
+- A RogueLike Game! 
+
+🌱 I’m currently learning ...
+- Azure
+
+💬 Ask me about ...
+- My Pokeman card collection
+
 <!--
 **stebaker92/stebaker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

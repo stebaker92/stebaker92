@@ -3,10 +3,12 @@
 ![badge](https://img.shields.io/github/followers/stebaker92?style=social)
 
 🔭 I’m currently working on ...
-- A RogueLike Game! 
+- A RogueLike Game
 
 🌱 I’m currently learning ...
+- Cloud Architecure
 - Azure
+- AWS
 
 💬 Ask me about ...
 - My Pokeman card collection

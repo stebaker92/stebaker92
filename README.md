@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/github/followers/stebaker92?style=social)
 
 🔭 I’m currently working on ...
-- A RogueLike Game
+- A RogueLike Game using MonoGame
 
 🌱 I’m currently learning ...
 - Cloud Architecure

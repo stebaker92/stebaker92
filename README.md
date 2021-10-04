@@ -3,12 +3,15 @@
 ![badge](https://img.shields.io/github/followers/stebaker92?style=social)
 
 🔭 I’m currently working on ...
-- A RogueLike Game using MonoGame
+- Expanding my knowledge by working as a consultant
 
 🌱 I’m currently learning ...
 - Cloud Architecure
 - Azure
 - AWS
+
+🧱 I'm currently building
+- A RogueLike Game using MonoGame
 
 💬 Ask me about ...
 - My Pokeman card collection

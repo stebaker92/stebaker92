@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋 :banana:
 
-![badge](https://img.shields.io/github/followers/stebaker92?style=social)
+[![badge](https://img.shields.io/github/followers/stebaker92?style=social)](https://github.com/stebaker92?tab=followers)
 
 🔭 I’m currently working on ...
 - Expanding my knowledge by working as a consultant

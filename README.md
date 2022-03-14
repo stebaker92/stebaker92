@@ -7,7 +7,7 @@
 [![badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ste-baker-dev)
 
 
-I'm a senior developer, specialising in the Microsoft stack (.net core & Azure) and enjoy full-stack development. I enjoy the challenges of Front-end, back-end, pipelines, cloud architecutre and scripting.
+Senior developer, specialising in the Microsoft stack (.net core & Azure). I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecutre and scripting!
 
 <!-- 
 
@@ -34,7 +34,7 @@ I'm a senior developer, specialising in the Microsoft stack (.net core & Azure) 
 
 💬 Ask me about ...
 - My Pokeman card collection
-- What games I'm currently playing
+- Games I'm currently playing
 
 <!--
 **stebaker92/stebaker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,8 +25,8 @@ Senior developer, specialising in the Microsoft stack (.net core & Azure). I enj
 🌱 I’m currently learning ...
 - Tools to increase my productivity such as GitHub Actions, Bash and TamperMonkey
 - Cloud Architecure
-- Azure
-- AWS
+  - Azure
+  - AWS
 
 🧱 I'm currently building
 - A RogueLike Game using MonoGame

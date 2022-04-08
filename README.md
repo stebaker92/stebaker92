@@ -7,7 +7,7 @@
 [![badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ste-baker-dev)
 
 
-Senior developer, specialising in the Microsoft stack (.net core & Azure). I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecutre and scripting!
+Senior developer, specialising in the Microsoft stack (.net core & Azure). I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecutre, scripting and automation!
 
 <!-- 
 
@@ -20,7 +20,7 @@ Senior developer, specialising in the Microsoft stack (.net core & Azure). I enj
 ----
 
 🔭 Recently I've been working on ...
-- Expanding my knowledge by working as a consultant
+- Expanding my knowledge by working as a consultant in a range of different industries
 
 🌱 I’m currently learning ...
 - Tools to increase my productivity such as GitHub Actions, Bash and TamperMonkey
@@ -31,10 +31,12 @@ Senior developer, specialising in the Microsoft stack (.net core & Azure). I enj
 🧱 I'm currently building
 - A RogueLike Game using MonoGame
 - A JS library for TamperMonkey
+- Misc TamperMonkey and Web Scraping tools
 
 💬 Ask me about ...
 - My Pokeman card collection
 - Games I'm currently playing
+
 
 <!--
 **stebaker92/stebaker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,3 +54,5 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stebaker92&layout=compact&hide=html" alt="stebaker92" /></p>
+
+![Profile views](https://gpvc.arturio.dev/stebaker92)

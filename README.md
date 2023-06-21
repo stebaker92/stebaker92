@@ -28,15 +28,12 @@ Senior developer, specialising in the Microsoft stack (.net core & Azure). I enj
   - Azure
   - AWS
 
-🧱 I'm currently building
+🧱 Interesting projects I've built in the past
 - A RogueLike Game using MonoGame
-- A JS library for TamperMonkey
 - Misc TamperMonkey and Web Scraping tools
 
 💬 Ask me about ...
-- My Pokeman card collection
 - Games I'm currently playing
-
 
 <!--
 **stebaker92/stebaker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

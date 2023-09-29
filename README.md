@@ -7,7 +7,9 @@
 [![badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ste-baker-dev)
 
 
-Senior developer, specialising in the Microsoft stack (.net core & Azure). I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecture, scripting and automation!
+Senior developer, specialising in the Microsoft stack (.net core & Azure). 
+
+I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecture, scripting and automation!
 
 <!-- 
 

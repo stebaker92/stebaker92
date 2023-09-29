@@ -21,19 +21,24 @@ Senior developer, specialising in the Microsoft stack (.net core & Azure). I enj
 
 🔭 Recently I've been working on ...
 - Expanding my knowledge by working as a consultant in a range of different industries
+- Learning about the latest Azure, dotnet and c# features
+- Blazor! 
 
 🌱 I’m currently learning ...
-- Tools to increase my productivity such as GitHub Actions, Bash and TamperMonkey
+- Tools to increase my ability to automate such as GitHub Actions, Bash scripting and TamperMonkey
 - Cloud Architecure
   - Azure
   - AWS
 
-🧱 Interesting projects I've built in the past
-- A RogueLike Game using MonoGame
-- Misc TamperMonkey and Web Scraping tools
+🧱 Interesting personal projects I've built in the past
+- A RogueLike/RPG style game using C#/MonoGame
+- Misc TamperMonkey scripts to enrich websites and automate processes
+- Misc Web Scraping tools using puppeteer, cheerio.js and node
 
 💬 Ask me about ...
 - Games I'm currently playing
+- Side projects and technology i'm currently learning
+- Music I've recently discovered
 
 <!--
 **stebaker92/stebaker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

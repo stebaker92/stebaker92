@@ -21,23 +21,28 @@ I enjoy all the challenges of full-stack development; Front-end, back-end, pipel
 
 ----
 
-🔭 Recently I've been working on ...
+_🔭 Recently I've been working on ..._
 - Expanding my knowledge by working as a consultant in a range of different industries
-- Learning about the latest Azure, dotnet and c# features
+- Learning about the latest Azure, dotnet and C# features
 - Blazor! 
 
-🌱 I’m currently learning ...
-- Tools to increase my ability to automate such as GitHub Actions, Bash scripting and TamperMonkey
-- Cloud Architecure
+_🌱 I’m currently learning ..._
+- Tools to increase my ability to automate such as:
+    - GitHub Actions
+    - Web scraping (puppeteer, cheerio.js)
+    - Bash scripting
+    - TamperMonkey & Chrome extensions
+- Cloud Architecure:
   - Azure
   - AWS
+- IaC tooling (Terraform, ARM templates, Serverless framework)
 
-🧱 Interesting personal projects I've built in the past
+_🧱 Interesting personal projects I've built in the past_
 - A RogueLike/RPG style game using C#/MonoGame
 - Misc TamperMonkey scripts to enrich websites and automate processes
 - Misc Web Scraping tools using puppeteer, cheerio.js and node
 
-💬 Ask me about ...
+_💬 Ask me about ..._
 - Games I'm currently playing
 - Side projects and technology i'm currently learning
 - Music I've recently discovered

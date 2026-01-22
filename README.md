@@ -9,7 +9,7 @@
 
 Senior Fullstack Developer, specialising in the Microsoft stack (.NET core & Azure). 
 
-I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecture, scripting and automation!
+I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecture, scripting and automation
 
 <!-- 
 
@@ -29,11 +29,10 @@ _🔭 Recently I've been working on ..._
 _🌱 I’m currently learning ..._
 - Cloud Architecure:
   - Azure
-  - AWS
-- IaC tooling (Terraform, ARM templates, Serverless framework)
+- IaC tooling (Terraform, Docker, ARM templates)
 
 _🧱 Interesting personal projects I've worked on in the past_
-- A RogueLike/dungeon crawlergame using C#/MonoGame
+- A dungeon crawler game using C#/MonoGame
 
 _💬 Ask me about ..._
 - Games I'm currently playing

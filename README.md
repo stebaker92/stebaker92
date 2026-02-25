@@ -3,14 +3,15 @@
 [![badge](https://img.shields.io/github/followers/stebaker92?style=for-the-badge)](https://github.com/stebaker92?tab=followers)
 [![badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ste-baker-dev)
 [![badge](https://img.shields.io/badge/website-purple?logo=gatsby&style=for-the-badge)](https://stevebaker.netlify.app)
-[![badge](https://img.shields.io/badge/bloG-orange?logo=gatsby&style=for-the-badge)](https://stevebaker.netlify.app/blog)
-[![badge](https://img.shields.io/badge/dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/stebaker92)
+<!--[![badge](https://img.shields.io/badge/bloG-orange?logo=gatsby&style=for-the-badge)](https://stevebaker.netlify.app/blog)
+[![badge](https://img.shields.io/badge/dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/stebaker92)-->
 
 
-Senior Fullstack Developer, specialising in the Microsoft stack (.NET core & Azure). 
+Senior Fullstack Developer, specialising in the Microsoft stack (.NET, Azure, SQL). 
 
-I enjoy all the challenges of full-stack development; Front-end, back-end, pipelines, cloud architecture, scripting and automation
+I enjoy all the challenges of full-stack development; Front-end, Back-end, pipelines, cloud architecture, scripting, automation and AI
 
+<!--
 ----
 
 _🔭 Recently I've been working on ..._
@@ -29,3 +30,4 @@ _🧱 Interesting personal projects I've worked on in the past_
 _💬 Ask me about ..._
 - Games I'm currently playing
 - Side projects and technology I'm currently learning
+-->

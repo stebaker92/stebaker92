@@ -2,8 +2,8 @@
 
 [![badge](https://img.shields.io/github/followers/stebaker92?style=for-the-badge)](https://github.com/stebaker92?tab=followers)
 [![badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ste-baker-dev)
-[![badge](https://img.shields.io/badge/website-purple?logo=gatsby&style=for-the-badge)](https://stevebaker.dev)
-<!--[![badge](https://img.shields.io/badge/bloG-orange?logo=gatsby&style=for-the-badge)](https://stevebaker.dev/blog)
+[![badge](https://img.shields.io/badge/website-grey?logo=devbox&style=for-the-badge)](https://stevebaker.dev)
+<!--[![badge](https://img.shields.io/badge/bloG-orange?logo=devbox&style=for-the-badge)](https://stevebaker.dev/blog)
 [![badge](https://img.shields.io/badge/dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/stebaker92)-->
 
 

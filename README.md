@@ -11,7 +11,6 @@ Senior Fullstack Developer, specialising in the Microsoft stack (.NET, Azure, SQ
 
 I enjoy all the challenges of full-stack development; Front-end, Back-end, pipelines, cloud architecture, scripting, automation and AI
 
-<!--
 ----
 
 _🔭 Recently I've been working on ..._
@@ -31,5 +30,6 @@ _🧱 Interesting personal projects I've worked on in the past_
 
 _💬 Ask me about ..._
 - Games I'm currently playing
-- Side projects and technology I'm currently learning
+- Side projects or technology I'm currently learning
+<!--
 -->
